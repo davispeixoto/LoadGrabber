@@ -1,2 +1,2 @@
 # LoadGrabber
-A phantomjs performance monitoring script
+A phantomjs script for a headless performance monitoring service
